@@ -1,2 +1,6 @@
-flask
+
+Flask==3.0.0
 flask_socketio
+Gunicorn==20.1.0
+Flask-SocketIO==5.3.
+Werkzeug==2.0.1
