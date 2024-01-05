@@ -1,3 +1,2 @@
 flask
 flask_socketio
-$env:FLASK_APP = "main.py"
