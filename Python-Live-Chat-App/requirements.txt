@@ -1,2 +1,3 @@
 pip install flask
 pip install flask_socketio
+$env:FLASK_APP = "main.py"
